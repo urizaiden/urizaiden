@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @urizaiden
-- 👀 I’m interested in DevOps, Artificial Intelligence, Blockchain and, Web3
+- 👀 I’m interested in cloud infrastructure, distributed systems, artificial intelligence, Blockchain and, Web3
 - 🌱 I’m currently learning Blockchain
 - 📫 You can reach me via LinkedIn or email
 
